@@ -1,0 +1,12 @@
+{
+  "name": "javascript_for_mew",
+  "version": "1.0.0",
+  "main": "login.html",
+  "scripts": {
+    "start": "open fixed.amount/login.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
